@@ -1,5 +1,3 @@
-  
-
     <select id="select1" name="indication_subject[]">
       <option value="" selected="selected">a </option>
       <option> Accounting</option>
